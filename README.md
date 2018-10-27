@@ -1,0 +1,2 @@
+# FuzzyLogic
+Artificial Inteligence 
